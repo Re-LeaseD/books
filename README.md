@@ -1,3 +1,7 @@
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Re-LeaseD&show_icons=true)
+
+
+
 
 Source codes for various books I collected over the years.
 
@@ -244,5 +248,4 @@ Science, technology content in Turkish (Bilim, teknoloji, matematik)
 
 [Classnotes](https://github.com/burakbayramli/classnotes)
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Re_LeaseD&show_icons=true)
 
