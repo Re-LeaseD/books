@@ -244,3 +244,5 @@ Science, technology content in Turkish (Bilim, teknoloji, matematik)
 
 [Classnotes](https://github.com/burakbayramli/classnotes)
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Re_LeaseD&show_icons=true)
+
